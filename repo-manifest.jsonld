@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/zenml-io/zenml-solution-engineering-challenge",
+  "@type": "gh:Repository",
+  "gh:name": "zenml-solution-engineering-challenge",
+  "gh:owner": "zenml-io",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/zenml-io/zenml-solution-engineering-challenge/commit/86152e0e4c9fff15ecb50461c704efccc86f4653",
+      "git:hexsha": "86152e0e4c9fff15ecb50461c704efccc86f4653",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
